@@ -1,0 +1,14 @@
+C:\Users\ravichandra\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ravichandra\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\ravichandra\source\repos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\ravichandra\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\ravichandra\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ravichandra\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\ravichandra\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\ravichandra\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\ravichandra\source\repos\ConsoleApp1\bin\Debug\Maze.txt
+C:\Users\ravichandra\source\repos\ConsoleApp1\bin\Debug\Figgle.dll
+C:\Users\ravichandra\source\repos\ConsoleApp1\bin\Debug\Pastel.dll
+C:\Users\ravichandra\source\repos\ConsoleApp1\bin\Debug\Figgle.xml
+C:\Users\ravichandra\source\repos\ConsoleApp1\bin\Debug\Pastel.xml
+C:\Users\ravichandra\source\repos\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
